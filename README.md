@@ -5,7 +5,7 @@
 <h2>👨‍💻 Projetos de Cibersegurança:</h2>
 
 - [Laboratório SIEM/SOC Azure](link repositorio)
-- [Laboratório Active Directory](link repositorio)
+- [Laboratório Active Directory](https://github.com/MarcioJr1/LaboratorioActiveDirectory/)
   
 <h2> 🤳 Conecte-se comigo!</h2>
 
